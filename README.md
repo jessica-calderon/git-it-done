@@ -8,6 +8,7 @@ A web app that uses GitHub's API to search for open source projects with open is
 * JavaScript
 
 ## Website 
+https://jessica-calderon.github.io/git-it-done/
 ## Website Preview
 
 ## Contribution
